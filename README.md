@@ -48,7 +48,7 @@ This is a fully functional admin panel designed for managing recruitment workflo
 
 ```bash
 # Clone or download the project
-cd v0-project
+cd project-name
 
 # Install dependencies
 npm install
@@ -70,8 +70,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Visit `/login` and click on any of the three user cards:
 
-| Role | Email | Company |
-|------|-------|---------|
+| Role | Email | Password | Company |
+|------|-------|---------|---------|
 | **Super Admin** | sarah.johnson@hrms.admin | 123456 | System |
 | **Staff** | mike.thompson@staff.hrms | 123456 | Recruiter |
 | **Customer** | emily.chen@customer.hrms | 123456 | Company HR |
