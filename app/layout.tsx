@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'HRMS Recruitment Admin',
   description: 'Multi-role HR Management System for Recruitment',
-  generator: 'v0.app',
 }
 
 export default function RootLayout({
