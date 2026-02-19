@@ -72,26 +72,15 @@ Visit `/login` and click on any of the three user cards:
 
 | Role | Email | Password | Company |
 |------|-------|---------|---------|
-| **Super Admin** | sarah.johnson@hrms.admin | 123456 | System |
-| **Staff** | mike.thompson@staff.hrms | 123456 | Recruiter |
-| **Customer** | emily.chen@customer.hrms | 123456 | Company HR |
+| **Super Admin** | admin@hrms.com | 123456 | System |
+| **Staff** | recruiter@hrms.com | 123456 | Recruiter |
+| **Hr** | hr@hrms.com | 123456 | Company HR |
 
 No password required - just click to login!
 
 ## 📚 Documentation
 
 Start here for complete information:
-
-### For Users
-- **[QUICKSTART.md](./QUICKSTART.md)** - Getting started in 5 minutes
-- **[TEST_CREDENTIALS.md](./TEST_CREDENTIALS.md)** - Login credentials and testing guide
-- **[ROUTES.md](./ROUTES.md)** - Complete map of all available routes
-
-### For Developers
-- **[DEVELOPER_GUIDE.md](./DEVELOPER_GUIDE.md)** - Architecture patterns and best practices
-- **[ARCHITECTURE.md](./ARCHITECTURE.md)** - System design and data flow
-- **[FEATURES.md](./FEATURES.md)** - Detailed feature checklist
-- **[BUILD_SUMMARY.md](./BUILD_SUMMARY.md)** - What was built and how
 
 ## 🏗️ Architecture
 
